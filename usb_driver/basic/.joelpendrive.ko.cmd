@@ -1,0 +1,1 @@
+cmd_/home/joel/usb_driver/basic/joelpendrive.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-98-generic/scripts/module-common.lds --build-id  -o /home/joel/usb_driver/basic/joelpendrive.ko /home/joel/usb_driver/basic/joelpendrive.o /home/joel/usb_driver/basic/joelpendrive.mod.o

@@ -1,0 +1,1 @@
+cmd_/home/joel/Desktop/driver_code/param/param.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-164-generic/scripts/module-common.lds --build-id  -o /home/joel/Desktop/driver_code/param/param.ko /home/joel/Desktop/driver_code/param/param.o /home/joel/Desktop/driver_code/param/param.mod.o
